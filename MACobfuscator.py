@@ -8,7 +8,7 @@
 # Usage: MACobfuscator.py
 #        Before run the script, download and put mac-vendor.txt to directory with MACobfuscator.py.
 #        Text file with vendors: https://gist.github.com/aallan/b4bb86db86079509e6159810ae9bd3e4
-# Author: gaznick - katoda.pl - gaznick@katoda.pl
+# Author: CheerfulAnt@outlook.com
 # Version: 1.0
 # Date: 20 March 2022 - 15:00 (UTC+02:00)
 
